@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "currency.js": "^2.0.4",
     "vitest": "^1.6.0"
   }
 }
